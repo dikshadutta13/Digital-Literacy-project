@@ -3,6 +3,8 @@
 ##  Student Details
 **Name:** Diksha Dutta 
 
+**Registration no.:** 25MIM10021
+
 **Branch:** Integrated Mtech AI
 
 **Year:** 2025-2030
