@@ -1,9 +1,12 @@
 #  Digital Literacy Project
 
 ##  Student Details
-**Name:** Diksha Dutta  
-**Branch:** Integrated Mtech AI 
+**Name:** Diksha Dutta 
+
+**Branch:** Integrated Mtech AI
+
 **Year:** 2025-2030
+
 **Course Code:** CSE0001  
 
 ---
