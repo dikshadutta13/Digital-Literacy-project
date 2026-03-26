@@ -4,8 +4,7 @@
 others online  
 • Verify information from reliable sources before sharing it to 
 avoid spreading misinformation  
-• Adjust and maintain privacy settings to protect your personal  
-data  
+• Adjust and maintain privacy settings to protect your personal data  
 • Share meaningful, positive, and appropriate content that 
 reflects your personality well  
 • Think carefully before posting to ensure your content is 
