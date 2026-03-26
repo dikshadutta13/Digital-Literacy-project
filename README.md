@@ -34,8 +34,6 @@ In this module, I built my professional online presence using platforms like Git
 ###  Module 3: Coding & Collaboration Platforms
 In this module, I explored platforms like HackerRank and Google Forms. I solved a beginner-level coding problem to improve my programming skills and created a digital literacy quiz using Google Forms. This helped me understand both coding practice and online collaboration tools.
 
-Google form link: https://docs.google.com/forms/d/e/1FAIpQLScPx99wG7E7A_-j0nF_aGYyzmMdWsgYjKgJM53pZ5SiucxM5w/viewform
-
 ---
 
 ###  Module 4: Email Etiquette & Communication
@@ -60,8 +58,8 @@ In this module, I studied a cybercrime case and created a prevention checklist. 
 ---
 
 ## 🔗 Digital Literacy Quiz
-(Add your Google Form link here)
+ https://docs.google.com/forms/d/e/1FAIpQLScPx99wG7E7A_-j0nF_aGYyzmMdWsgYjKgJM53pZ5SiucxM5w/viewform
 
 ---
 
-⭐ *This project helped me develop essential digital skills and understand the importance of responsible online behavior.*
+
