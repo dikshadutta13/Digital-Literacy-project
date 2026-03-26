@@ -1,4 +1,5 @@
-Do’s 
+## Do’s 
+
 • Use respectful and polite language while communicating with 
 others online  
 • Verify information from reliable sources before sharing it to 
@@ -9,7 +10,9 @@ data
 reflects your personality well  
 • Think carefully before posting to ensure your content is 
 appropriate and responsible  
-Don’ts 
+
+## Don’ts 
+
 • Do not share personal or sensitive information such as 
 passwords, phone numbers, or address  
 • Avoid spreading fake news or unverified information  
