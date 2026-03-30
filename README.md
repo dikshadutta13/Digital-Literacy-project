@@ -49,19 +49,43 @@ In this module, I studied a cybercrime case and created a prevention checklist. 
 ---
 
 ##  Repository Structure
+## Repository Structure
 
-- `task-1-presentation/` → Infographic  
-- `task-2-portfolio/` → Profile screenshots  
-- `task-3-platforms/` → Coding + Google Form  
-- `task-4-email-etiquette/` → Emails + Checklist  
-- `task-5-cybercrime/` → Case study + Prevention tips  
-- `report/` → Final project report  
-
----
-
+```
+Digital-Literacy-Project/
+│
+├── task-1-presentation/
+│   ├── DL INFOGRAFIC.pdf
+│   └── Description.md
+│
+├── task-2-portfolio/
+│   ├── Github-profile.png
+│   ├── Kaggle-profile.png
+│   ├── Linkedin-profile.png
+│   └── Reflection-Notes.pdf
+│
+├── task-3-platforms/
+│   ├── Google_form.png
+│   ├── HackerRank.png
+│   ├── HackerRank-solve-me-first.png
+│   ├── Response-sheet.png
+│   └── Notes.pdf
+│
+├── task-4-email-etiquette/
+│   ├── EMAIL.pdf
+│   └── Social-media-checklist.md
+│
+├── task-5-cybercrime/
+│   ├── Casestudy.md
+│   ├── Preventin-checklist.md
+│   ├── Reflection-Notes.pdf
+│   └── Project-Report.pdf
+│
+└── README.md
+```
 ## 🔗 Digital Literacy Quiz
  https://docs.google.com/forms/d/e/1FAIpQLScPx99wG7E7A_-j0nF_aGYyzmMdWsgYjKgJM53pZ5SiucxM5w/viewform
 
----
+
 
 
